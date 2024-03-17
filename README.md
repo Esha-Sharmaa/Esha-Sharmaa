@@ -1,7 +1,10 @@
 # Welcome to Esha's GitHub Profile! 👋
 
-Hey there! Welcome to my GitHub profile. I'm passionate about [insert your interests, e.g., software development, machine learning, open-source projects], and I love to [insert any other hobbies or interests, e.g., hiking, photography, cooking].
-
+Hey there! Welcome to my GitHub profile. I'm passionate about:
+- Frontend development 🌐
+- Solving problems 🧩
+- Learning new things 📚
+- 
 <!--## About Me ℹ️
 
 - 🌟 [Insert any significant achievements or accolades]
@@ -26,7 +29,7 @@ Feel free to reach out if you want to collaborate on any projects or just chat a
 
 ## My GitHub Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esha_Sharmaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esha-Sharmaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Top Projects 🔝
 
