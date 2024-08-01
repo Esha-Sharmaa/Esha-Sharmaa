@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on building a Note Taking Application.<br>- 🌱 I’m currently learning Express.js<br>- 💬 Ask me about my impressive collection of unfinished projects and the ideas that never saw the light of day.<br>- 📫 How to reach me: [eshasharmakb22@gmail.com].<br>- 😄 Pronouns: She/Her
+- 🔭 I’m currently working on building Note Taking Application .<br>- 🌱 I’m currently learning Typescript<br>- 💬 Ask me about my impressive collection of unfinished projects and the ideas that never saw the light of day.<br>- 📫 How to reach me: [eshasharmakb22@gmail.com].<br>- 😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
