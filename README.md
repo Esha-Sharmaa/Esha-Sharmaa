@@ -1,7 +1,14 @@
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwMzA4MjEsIm5iZiI6MTczNDAzMDUyMSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDE5MDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyYzZlNTBmNTViM2ZjMmYxMmZiY2Y2ZWY3NGM2NjM2MGI5Zjk2ZDcyOGI4ZWRjYTAzY2RhMDQ1NDE5NzNjNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-TVtPtvNPxboBVhgCC-AkaGQyTiuVwo-dKggcKCobnI)](https://esha-sharmaa.io)
+
+
+
+
 # 💫 About Me:
-- 🔭 I’m currently working on building Note Taking Application .<br>- 🌱 I’m currently learning Typescript<br>- 💬 Ask me about my impressive collection of unfinished projects and the ideas that never saw the light of day.<br>- 📫 How to reach me: [eshasharmakb22@gmail.com].<br>- 😄 Pronouns: She/Her
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+- 🔭 I’m currently working on building Note Taking Application .<br>- 🌱 I’m currently learning Typescript<br>- 💬 Ask me about my impressive collection of unfinished projects and the ideas that never saw the light of day.<br>- 📫 How to reach me: [eshasharmakb22@gmail.com].<br>- 😄 Pronouns: She/Her  
 
 
+<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshasharmaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fleetwoood2002) 
 
