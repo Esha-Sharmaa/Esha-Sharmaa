@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 sk me about my impressive collection of unfinished projects <br>
+- 💬 sk me about my impressive collection of unfinished projects
   and the ideas that never saw the light of day
 
 - 📫 How to reach me: [**eshasharmakb22@gmail.com**].
