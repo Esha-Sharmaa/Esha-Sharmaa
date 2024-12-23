@@ -1,4 +1,4 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwMzA4MjEsIm5iZiI6MTczNDAzMDUyMSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDE5MDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyYzZlNTBmNTViM2ZjMmYxMmZiY2Y2ZWY3NGM2NjM2MGI5Zjk2ZDcyOGI4ZWRjYTAzY2RhMDQ1NDE5NzNjNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-TVtPtvNPxboBVhgCC-AkaGQyTiuVwo-dKggcKCobnI)](https://esha-sharmaa.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://esha-sharmaa.io)
 
 <h1 align="center">Hi 👋, I'm Esha Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
@@ -22,8 +22,8 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://x.com/fleetwoood2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vwolf0320vwolf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eshasharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-bagde/" height="30" width="40" /></a>
+<a href="https://x.com/fleetwoood2002" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5Mjg5MjIsIm5iZiI6MTczNDkyODYyMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIzVDA0MzcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZTkzMTRkYTJlZmE2NDY5ODg0ODkwZWZmZGU2ODgwNTI1MTlkN2YwMDkyNmE3MDRiYzI5Y2U5MmI5NDk5NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ya0HdXpu90JLAT-YcqH5CwGPoh3sN802XcllJP2SF44" alt="vwolf0320vwolf" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/eshasharmaa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/vinay-bagde/" height="50" width="50" /></a>
 </p>
 
 # 💻 Tech Stack:
