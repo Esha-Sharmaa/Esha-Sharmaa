@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on building InteviewPrep Buddy .
 - 🌱 I’m currently learning Nextjs, Postgres, Prisma.
 - 💬 Ask me about my impressive collection of unfinished projects and the ideas that never saw the light of day.
-- 📫 How to reach me: [eshasharmakb22@gmail.com].<br> - 😄 Pronouns: She/Her
+- 📫 How to reach me: [eshasharmakb22@gmail.com].
+- 😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
